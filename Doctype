@@ -1,1 +1,10 @@
-
+<!doctype html>
+<html lang="pt-BR">
+<body>
+<tittle>Artigos de viagem</title>
+<h1>Rio de Janeiro</>
+<img src="https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSK0_z8o1M37TMj1-ShqK9fJ5ArjlaSER7xn8IMlYdRjj4iD1vNn97hK4yavr6POw_KciRSDKM_w_QR0U6hECMa9_RFXGq8hjiWvbdjWPw" alt="Rio" width="304" height="182">
+<h2>O Rio e sua beleza</h2>
+<a href="https://www.rio.rj.gov.br/web/ipp/artigos">This is a link</a>
+</body>
+</html>
